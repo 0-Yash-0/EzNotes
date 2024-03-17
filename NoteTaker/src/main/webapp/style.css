@@ -1,0 +1,76 @@
+.purple {
+
+	background: #303030;
+}
+
+.bg-custom {
+	background: #383838;
+
+}
+
+.navbar {
+	content-visibility: visible;
+	font-family: Snell Roundhand, cursive;
+	font-style: italic;
+
+
+}
+
+.nav-item .nav-link {
+	font-family: Brush Script MT, Brush Script Std, cursive;
+	font-style: normal;
+}
+
+.navbar-custom .nav-item:hover .nav-link {
+	background-color: ghostwhite;
+	color: black;
+	border-radius: 20px;
+}
+
+body {
+	background: url(img1.jpg) no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+}
+
+.StartNotes {
+	color: ghostwhite;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: Brush Script MT, Brush Script Std, cursive;
+	font-style: normal;
+
+}
+
+.bg-white {
+	background-color: transparent !important;
+}
+
+.container {
+	width: 1520%;
+	padding-right: 0%;
+	padding-left: 0%;
+	margin-left: 0%;
+	margin-right: 0%;
+}
+
+.img-fluid {
+	width: 100%;
+}
+
+.addnotes1 {
+	color: ghostwhite;
+	font-family: Brush Script MT, Brush Script Std, cursive;
+	font-style: normal;
+}
+
+.card {
+	background-color: #b7b7b7;
+}
+
+.heading1 {
+	text-align: center;
+	font-family: Brush Script MT, Brush Script Std, cursive;
+	color: ghostwhite;
+	font-style: normal;
+}
